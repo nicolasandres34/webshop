@@ -18,7 +18,7 @@ At the bottom of the cart you have a button to remove the discounts applied, as 
 - Use of discount codes.
 - Delete discounts
 - Checkout Form.
-- 
+
 ## Technologies Employed
 
 - **React.js** = Funcionalidad de la pagina.
