@@ -1,0 +1,188 @@
+.headerBody{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    position:sticky ;
+    margin-bottom: 30px;
+}
+
+.noneTextDecoration{
+    text-decoration: none;
+}
+
+.font{
+    font-family: 'Righteous', cursive;
+}
+
+.cartCounter{
+    border-radius: 50px;
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    color: rgb(0, 0, 0);
+}
+
+.spaceRight{
+    margin-right: 10px;
+}
+
+.title{
+    margin-bottom: 30px;
+}
+
+.marginTop{
+    margin-top: 30px;
+}
+
+.subtitle{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.margin{
+    margin-top: 50px;
+}
+
+.Inp{
+    margin: auto;
+    width: 300px;
+    margin-bottom: 20px;
+}
+.InpCard{
+    margin: auto;
+    width: 350px;
+    margin-bottom: 20px;
+}
+
+.flexRow{
+    display: flex;
+    flex-direction: row;
+}
+
+.flexCenter{
+    display: flex;
+    justify-content: center;
+}
+
+
+.productsBody{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px;
+    border-radius: 20px;
+    height: 500px;
+}
+
+.FormGroup{
+    display: flex;
+    justify-content: center;
+}
+
+.checkoutBody{
+    margin-bottom: 150px;
+    padding: 50px;
+    background-color: rgba(54, 54, 54, 0.116);
+}
+
+.product{
+    background-color: rgba(194, 194, 194, 0.39);
+    padding: 20px;
+    box-shadow: 5px 5px 2px 2px rgba(0, 0, 0, 0.267);
+    padding-top: 25px;
+    padding-bottom: 90px;
+    width: 350px;
+    font-family: 'Righteous', cursive;;
+    margin: 10px;
+    height: 500px;
+    
+}
+
+.titleProd{
+    background-color: rgba(145, 145, 145, 0.226);
+    margin-left: 39px;
+    padding: 10px;
+    width: 1830px;
+    text-align: center;
+    box-shadow: 5px 5px 2px 2px rgba(0, 0, 0, 0.267);
+    font-family: 'Righteous', cursive;
+}
+
+
+.button{
+    margin-top: 25px;
+}
+
+.buttonColor{
+    background-color: black;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.cartBody{
+margin-top: 30px;
+padding: 60px;
+background-color: rgba(145, 145, 145, 0.226);
+height: auto;
+box-shadow: 5px 5px 2px 2px rgba(0, 0, 0, 0.267);
+}
+
+.cartInput{
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    margin-right: 2px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.cartButton{
+   border-top-right-radius: 50px;
+   border-bottom-right-radius: 50px;
+}
+
+.cartProd{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4px;
+}
+
+.margin5{
+    margin: 5px;
+}
+
+
+
+.quantityButton{
+    background-color: black;
+    color: aliceblue;
+    border: 3px;
+    border-radius: 25px;
+    margin: 2px;
+}
+
+.cartPrice{
+    display: flex;
+    justify-content: space-around;
+}
+
+.checkoutInfo{
+    margin:50px;
+    
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+

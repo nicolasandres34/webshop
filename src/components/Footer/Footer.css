@@ -1,0 +1,74 @@
+
+.bodyFooter{
+    margin-top: 50px 
+}
+
+footer{
+    background-color: black;
+    padding-bottom: 0.1px;
+}
+
+.footerContent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.contactUs{
+    width: 40%;
+    color:white;
+    font-family: 'Righteous', cursive;
+}
+
+.brand{
+    font-weight: 500;
+    font-size: 40px;
+    color: white;
+}
+
+.brand+p{
+    font-weight: 500;
+    color: white;
+}
+
+.socialMedia{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 30px;
+    margin-right: 190px;
+}
+
+.socialMediaIcon{
+    display: inline-block;
+    margin-left: 20px;
+    width: 60px;
+    height: 60px;
+    border: 1px solid white;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+}
+
+.socialMediaIcon:hover{
+    background: rgb(255, 255, 255);
+    color: rgb(51, 8, 103);
+}
+
+.socialMediaIcon i{
+    font-size: 30px;
+    line-height: 60px;
+}
+
+.line{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 2px;
+    background: white;
+    margin-bottom: 60px;
+}
+
